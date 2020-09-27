@@ -1,0 +1,48 @@
+/* .bgclr{
+    background-color:lightcoral;
+    width: 50%;
+}
+.align{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+} */
+.fulldata{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background:lightblue;
+    width:100%;
+    float:right;
+    
+}
+.header{
+        color:darkslategrey;
+    }
+.content{
+    color:blue;
+    border-bottom: 1px solid black;
+}
+.blockcontent{
+    line-height: 200%;
+    padding :2px;
+}
+.hlupdate{
+    text-decoration: none;
+    border:1px solid black;
+    background-color: dimgrey;
+    color:black;
+    padding:-0.5 5px ;
+}
+.tabledata{
+    border-bottom:2px solid blueviolet;
+    text-align: center;
+    padding :2px;
+    margin:10px;
+}
+.blockcontent{
+    border-bottom:2px solid blueviolet ;
+}
+.btn{
+    background-color:dimgrey;
+}
